@@ -1024,6 +1024,3 @@
     - [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
     - [使用git和github进行协同开发流程](http://livoras.com/post/28)
     - [动画方式练习git](http://onlywei.github.io/explain-git-with-d3/)
-
-2. SVN
-
