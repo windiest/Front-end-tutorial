@@ -16,10 +16,10 @@
     - [重新介绍 JavaScript（JS 教程）](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
     - [麻省理工学院公开课：计算机科学及编程导论](http://v.163.com/special/opencourse/bianchengdaolun.html)
     - [JavaScript中的this陷阱的最全收集--没有之一](http://segmentfault.com/a/1190000002640298)
-    - [JS函数式编程指南](http://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html)
+    - [JS函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html)
     - [JavaScript Promise迷你书（中文版）](http://liubin.github.io/promises-book/)
     - [腾讯移动Web前端知识库](https://github.com/AlloyTeam/Mars)
-    - [Front-End-Develop-Guide 前端开发指南](https://github.com/w3crange/Front-End-Develop-Guide)
+    - [Front-End-Develop-Guide 前端开发指南](https://github.com/Front-End-Developers-Hunan/Front-End-Develop-Guide)
     - [前端开发笔记本](https://li-xinyang.gitbooks.io/frontend-notebook/content/)
     - [大前端工具集 - 聂微东](https://github.com/nieweidong/fetool)
     - [前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/)
@@ -61,9 +61,9 @@
 1. 开发中心
 
     - [mozilla js参考](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
-    - [chrome开发中心（chrome的内核已转向blink）](http://developer.chrome.com/extensions/api_index.html)
+    - [chrome开发中心（chrome的内核已转向blink）](https://developer.chrome.com/extensions/api_index.html)
     - [safari开发中心](https://developer.apple.com/library/safari/navigation)
-    - [microsoft js参考](http://msdn.microsoft.com/zh-cn/library/d1et7k7c(v=vs.94).aspx)
+    - [microsoft js参考](https://msdn.microsoft.com/zh-cn/library/d1et7k7c(v=vs.94).aspx)
     - [js秘密花园](http://sanshi.me/articles/JavaScript-Garden-CN/html/index.html)
     - [js秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
     - [w3help](http://www.w3help.org/) 综合Bug集合网站
@@ -81,7 +81,7 @@
 
 ####2. jQuery
 
-* [jQuery API 中文文档](http://jquery.bootcss.com/)
+* [jQuery API 中文文档](http://www.jquery123.com/)
 * [hemin 在线版](http://hemin.cn/jq/)
 * [css88 jq api](http://www.css88.com/jqapi-1.9/on/)
 * [css88 jqui api](http://www.css88.com/jquery-ui-api/)
@@ -106,7 +106,7 @@
 - [tomdjs](https://github.com/aui/tmodjs/blob/master/README.md)
 - [淘宝模板juicer模板](http://juicer.name/docs/docs_zh_cn.html)
 - [Fxtpl v1.0 繁星前端模板引擎](http://koen301.github.io/fxtpl/)
-- [laytpl](http://sentsin.com/layui/laytpl/)
+- [laytpl](http://laytpl.layui.com/)
 - [mozilla - nunjucks](https://github.com/mozilla/nunjucks)
 - [Juicer](https://github.com/PaulGuo/Juicer)
 - [dustjs](http://akdubya.github.io/dustjs/)
@@ -117,7 +117,7 @@
 - [artDialog 最新版](https://github.com/aui/artDialog)
 - [artDialog 文档](http://aui.github.io/artDialog/doc/index.html)
 - [google code 下载地址](https://code.google.com/p/artdialog/downloads/list)
-- [贤心弹出层](http://sentsin.com/jquery/layer/)
+- [贤心弹出层](http://layer.layui.com/)
 - [响应式用户交互组件库](https://github.com/bh-lay/UI)
 - [sweetalert-有css3动画弹出层](http://t4t5.github.io/sweetalert/)
 
@@ -140,7 +140,7 @@
 - [Angularjs源码学习](http://www.cnblogs.com/xuwenmin888/p/3739096.html)
 - [Angularjs源码学习](http://www.ifeenan.com/?c=AngularJS)
 - [angular对bootstrap的封装](http://angular-ui.github.io/bootstrap/)
-- [angularjs + nodejs](http://cnodejs.org/topic/51404e0f069911196d2e3923)
+- [angularjs + nodejs](https://cnodejs.org/topic/51404e0f069911196d2e3923)
 - [吕大豹 Angularjs](http://www.cnblogs.com/lvdabao/tag/AngularJs/)
 - [AngularJS 最佳实践](http://www.infoq.com/cn/news/2013/02/angular-web-app)
 - [Angular的一些扩展指令](http://www.lovelucy.info/angularjs-best-practices.html)
@@ -256,7 +256,7 @@
 - [W3C CSS验证服务](http://jigsaw.w3.org/css-validator/validator.html.zh-cn)
 - [caniuse](http://caniuse.com/#index )
 - [csscreator](http://csscreator.com/properties)
-- [microsoft](http://msdn.microsoft.com/zh-cn/library/cc351024(v=vs.85).aspx)
+- [microsoft](https://msdn.microsoft.com/zh-cn/library/cc351024(v=vs.85).aspx)
 - [在线测兼容-移动端](http://www.responsinator.com/)
 - [emulators](https://www.manymo.com/emulators)
 
@@ -356,7 +356,7 @@
     - [百度前端规范](http://coderlmn.github.io/code-standards/)
     - [百度前端规范](http://isobar-idev.github.io/code-standards/)
     - [百度前端规范](http://zhuanlan.zhihu.com/fuyun/19884834)
-    - [ECMAScript6 编码规范--广发证券前端团队](https://github.com/gf-web/es6-coding-style/)
+    - [ECMAScript6 编码规范--广发证券前端团队](https://github.com/gf-rd/es6-coding-style)
     - [JavaScript 风格指南/编码规范（Airbnb公司版）](http://blog.jobbole.com/79484/)
     - [网易前端开发规范](http://nec.netease.com/standard)
     - [css模块](http://www.75team.com/archives/1049)
@@ -452,7 +452,7 @@
 
 3. J-UI
 
-    - [J-UI](http://www.j-ui.com)
+    - [J-UI](http://jui.org/)
    
 4. Other
 
@@ -493,7 +493,7 @@
 
     - [经典my97](http://www.my97.net/dp/demo/index.htm)
     - [强大的独立日期选择器](http://www.cnblogs.com/gbin1/archive/2012/04/16/2452105.html)
-    - [fullcalendar](http://arshaw.com/fullcalendar/)
+    - [fullcalendar](http://fullcalendar.io/)
     - [fullcalendar日历控件知识点集合 ](http://blog.csdn.net/francislaw/article/details/7740630)
     - [中文api](http://blog.sina.com.cn/s/blog_9475b1c101012c5f.html)
     - [农历日历](https://github.com/zzyss86/LunarCalendar)
@@ -573,7 +573,7 @@
 2. 移动端
 
     - [无缝切换](http://www.swipejs.com/)
-    - [滑屏效果](http://www.idangero.us/swiper)
+    - [滑屏效果](http://www.idangero.us/swiper/)
     - [全屏fullpage](https://github.com/peunzhang/fullpage)
     - [单个图片切换](https://github.com/qiqiboy/touchslider)
     - [单个全屏切换](https://github.com/peunzhang/slip.js)
@@ -669,7 +669,7 @@
 
 - [nodejs 篇幅比较巨大](http://liuqing.pw/)
 - [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
-- [篇幅比较少](http://rainweb.cn/article/category/Nodejs)
+- [篇幅比较少](http://www.rainweb.cn/article/category/Nodejs)
 - [node express 入门教程](http://www.w3cfuns.com/article-5598538-1-1.html)
 - [nodejs定时任务](http://my.oschina.net/u/568264/blog/193773)
 - [一个nodejs博客](http://60sky.com/)
@@ -705,7 +705,7 @@
     - [页面加载中的图片性能优化](http://www.w3ctech.com/p/1503)
     - [Hey——前端性能](http://www.feelcss.com/tag/%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD)
     - [html优化](http://www.baiduux.com/blog/2010/03/15/html%E4%BC%98%E5%8C%96-2/)
-    - [99css——性能](http://www.99css.com/archives/tag/%E6%80%A7%E8%83%BD)
+    - [99css——性能](http://www.99css.com/tag/%e6%80%a7%e8%83%bd)
     - [Yslow——性能优化](http://www.yslow.net/category.php?cid=20)
     - [YSLOW中文介绍](http://www.cnblogs.com/yslow/)
     - [转一篇Yahoo关于网站性能优化的文章，兼谈本站要做的优化](http://www.360ito.com/article/40.html)
@@ -721,11 +721,11 @@
     - [分享网页加载速度优化的一些技巧？](http://www.gbin1.com/technology/html/20130217-tips-for-speed-up-page-loading/)
     - [页面加载中的图片性能优化](http://www.f2es.com/images-bytes-opt/)
     - [web前端优化(基于Yslow)](http://www.tcreator.info/webSchool/website/Front-end-Opt-Yslow.html)
-    - [网站性能优化工具大全](http://www.qianduan.net/website-performance-optimization-tool.html)
+    - [网站性能优化工具大全](https://www.qianduan.net/website-performance-optimization-tool.html)
     - [【高性能前端1】高性能HTML](http://www.alloyteam.com/2012/10/high-performance-html/)
     - [【高性能前端2】高性能CSS](http://www.alloyteam.com/2012/10/high-performance-css/)
     - [由12306谈谈网站前端性能和后端性能优化](http://coolshell.cn/articles/6470.html)
-    - [AlloyTeam——前端优化](http://www.alloyteam.com/category/webfrontend/%E5%89%8D%E7%AB%AF%E4%BC%98%E5%8C%96/)
+    - [AlloyTeam——前端优化](http://www.alloyteam.com/webfrontend/%E5%89%8D%E7%AB%AF%E4%BC%98%E5%8C%96/)
     - [毫秒必争，前端网页性能最佳实践](http://www.cnblogs.com/developersupport/p/3248695.html)
     - [网站性能工具Yslow的使用方法](http://blog.sina.com.cn/s/blog_6e9d2e0701017kvu.html)
     - [前端工程与性能优化（上）：静态资源版本更新与缓存](http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part1)
@@ -736,9 +736,9 @@
     - [Essential Web Performance Metrics — Part 2](http://blog.smartbear.com/performance/essential-web-performance-metrics-part-2/)
     - [YUISlide,针对移动设备的动画性能优化](http://jayli.github.io/blog/data/2011/12/23/yuislide.html)
     - [Improving Site Performance](http://joelglovier.com/improving-site-performance/)
-    - [让网站提速的最佳前端实践](http://blog.segmentfault.com/laopopo/1190000000367899)
+    - [让网站提速的最佳前端实践](http://segmentfault.com/a/1190000000367899)
     - [Why Website Speed is Important](http://sixrevisions.com/web-development/why-website-speed-is-important/)
-    - [Need for Speed – How to Improve your Website Performance](http://www.devbridge.com/articles/need-for-speed-how-to-improve-your-website-performance/)
+    - [Need for Speed – How to Improve your Website Performance](https://www.devbridge.com/articles/need-for-speed-how-to-improve-your-website-performance/)
     - [阿里无线前端性能优化指南 (Pt.1 加载期优化) ](https://github.com/amfe/article/issues/1)
     - []()
 
@@ -790,7 +790,7 @@
 - [智能社](http://www.zhinengshe.com/works_list.html)
 - [实例陈列架](http://demos.shizuwu.cn/)
 - [zoye demo](http://zoye.sinaapp.com/demo)
-- [王员外](http://lab.wangyuanwai.com/)
+- [王员外](http://lab.yuanwai.wang/)
 - [平凡](http://pingfan1990.sinaapp.com)
 - [jyg 游戏案例](http://www.lovewebgames.com/)
 - [很多jquery插件](http://www.helloweba.com/list.html)
@@ -876,10 +876,10 @@
 
 - [中文字体](http://www.zhihu.com/question/21253343)
 - [淘宝字库](http://iconfont.cn)
-- [字体](http://ux.etao.com/fonts)
+- [字体](http://mux.alimama.com/fonts)
 - [制作教程](http://iconfont.cn/help/platform.html)
 - [zhangxinxu-icommon](http://www.zhangxinxu.com/wordpress/?s=icomoon)
-- [icommon](http://icomoon.io/app/)
+- [icommon](https://icomoon.io/app/)
 - [用字体在网页中画ICON图标(推荐教程)](http://imooc.com/learn/243)
 - [字体压缩工具](http://font-spider.org/) 感谢初级群　[深圳-小鱼] 的推荐
 
@@ -922,13 +922,13 @@
         - [chrome profiles1](https://developer.chrome.com/devtools/index)
         - [chrome profiles2](http://h5dev.uc.cn/article-25-1.html)
         - [chrome profiles3](http://www.oschina.net/translate/performance-optimisation-with-timeline-profiles)
-        - [chrome移动版调试](https://developers.google.com/chrome-developer-tools/docs/mobile-emulation)
-        - [chrome调试](http://ued.taobao.org/blog/?p=5534)
+        - [chrome移动版调试](https://developer.chrome.com/devtools/docs/mobile-emulation)
+        - [chrome调试](http://ued.taobao.org/blog/2012/06/debug-with-chrome-dev-tool/)
         - [chrome的调试](http://www.cnblogs.com/QLeelulu/archive/2011/08/28/2156402.html)
-        - [chrome console 命令详解](https://developers.google.com/chrome-developer-tools/docs/commandline-api)
+        - [chrome console 命令详解](https://developer.chrome.com/devtools/docs/commandline-api)
         - [查看事件绑定1](http://www.cnblogs.com/leonkao/p/3809655.html)
         - [查看事件绑定2](http://www.cnblogs.com/xiaoyao2011/p/3447421.html)
-        - [神器——Chrome开发者工具(一)](http://segmentfault.com/blog/xuelang/1190000000683599)
+        - [神器——Chrome开发者工具(一)](http://segmentfault.com/a/1190000000683599)
         - [奇趣百科性能优化(Chrome DevTools 中的 Timeline Profils 等工具使用介绍)](https://xinranliu.me/2015-05-22-qiqu-performance/)
         - [chrome 开发者工具的 15 个小技巧](http://frontenddev.org/link/15-tips-of-chrome-developer-tools.html)
         - [Chrome开发者工具不完全指南](http://1ke.co/course/361)
@@ -1002,7 +1002,7 @@
 - [360网站卫士常用前端公共库CDN服务](http://libs.useso.com/)
 - [Bootstrap中文网开源项目免费 CDN 服务](http://www.bootcdn.cn/)
 - [开放静态文件 CDN - 七牛](http://staticfile.org/)
-- [CDN加速 - jq22](http://www.jq22.com/cdn)
+- [CDN加速 - jq22](http://www.jq22.com/cdn/)
 - [jQuery CDN](http://code.jquery.com/)
 - [Google jQuery CDN](http://www.google-jquery-cdn.com/)
 - [微软CDN](http://www.asp.net/ajax/cdn)
