@@ -7,7 +7,6 @@
 https://github.com/AutumnsWind/Front-end-tutorial
 经大大提醒很大一部分内容是出自：
 https://github.com/jsfront/src/blob/master/qq.md
-这里边的，但是在文中怎么没有出现相关的引用说明什么的。
 资源教程:
 
 1. 综合类
