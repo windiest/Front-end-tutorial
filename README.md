@@ -1,9 +1,3 @@
->开了交流群啦，欢迎加入交流心得
->
->http://jq.qq.com/?_wv=1027&k=iRLQRp
->
->QQ群365780609
-
 https://github.com/AutumnsWind/Front-end-tutorial
 经大大提醒很大一部分内容是出自：
 https://github.com/jsfront/src/blob/master/qq.md
