@@ -320,7 +320,7 @@ https://github.com/jsfront/src/blob/master/qq.md
 - [Vue 论坛](http://forum.vuejs.org/)
 - [Vue 入门指南](http://www.cnblogs.com/aaronjs/p/3660102.html)
 - [Vue 的一些资源索引](http://segmentfault.com/a/1190000000411057)
-- []()
+- [awesome-vue](https://github.com/vuejs/awesome-vue)
 
 ####21. 正则
 
