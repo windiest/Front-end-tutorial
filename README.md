@@ -481,6 +481,7 @@ https://github.com/jsfront/src/blob/master/qq.md
 
 ####8. 富文本编辑器
 
+- [功能齐全 tinymce](https://www.tinymce.com/)
 - [百度 ueditor](http://ueditor.baidu.com/website/)
 - [经典的ckeditor](http://ckeditor.com/)
 - [经典的kindeditor](http://kindeditor.net/)
