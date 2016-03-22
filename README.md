@@ -1,6 +1,3 @@
-https://github.com/AutumnsWind/Front-end-tutorial
-资源教程:
-
 1. 综合类
 
     - [前端知识体系](http://www.cnblogs.com/sb19871023/p/3894452.html)
