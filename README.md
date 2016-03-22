@@ -1026,5 +1026,6 @@ https://github.com/AutumnsWind/Front-end-tutorial
     - [使用git和github进行协同开发流程](http://livoras.com/post/28)
     - [动画方式练习git](http://onlywei.github.io/explain-git-with-d3/)
 
+新增：https://github.com/AutumnsWind/Front-end-tutorial/blob/master/project.md
 部分内容是出自：
 https://github.com/jsfront/src/blob/master/qq.md
