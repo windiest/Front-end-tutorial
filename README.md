@@ -1029,6 +1029,8 @@
 
 内容是出自：
 https://github.com/jsfront/src/blob/master/qq.md
+https://github.com/jsfront/src/blob/master/qq.md
+https://github.com/jsfront/src/blob/master/qq.md
 
 综合类 | 地址
 --- | --- 
