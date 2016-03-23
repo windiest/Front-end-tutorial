@@ -579,11 +579,15 @@ jQuery Mobile 移动开发中的日期插件Mobiscroll |https://mobiscroll.com
 
 3. Date library
 
+Date library | 地址
+--- | --- 
 Datejs|https://github.com/datejs/Datejs
 sugarjs|http://sugarjs.com/api/Date
 
 ####10. 综合效果搜索平台
 
+综合效果搜索平台 | 地址
+--- | --- 
 效果网|http://www.jq22.com
 17素材|http://www.17sucai.com
 常用的JavaScript代码片段|http://microjs.com
@@ -592,11 +596,15 @@ sugarjs|http://sugarjs.com/api/Date
 
 1. 概述
 
+概述 | 地址
+--- | --- 
 前端工具大全|http://www.awesomes.cn
 什么是前端工程化|https://github.com/fouber/blog/issues/10?from=timeline&isappinstalled=0#
 
 2. Gulp 
-    
+
+Gulp  | 地址
+--- | ---  
 Gulp官网|http://gulpjs.com
 Gulp中文网|http://www.gulpjs.com.cn
 gulp资料收集|https://github.com/Platform-CUF/use-gulp
@@ -614,11 +622,15 @@ Gulp开发教程（翻译）|http://www.w3ctech.com/topic/134
 
 3. Grunt
 
+Grunt  | 地址
+--- | ---  
 gruntjs|http://gruntjs.com
 Grunt中文网|http://www.gruntjs.net
 
 4. Fis
 
+Fis  | 地址
+--- | ---  
 fis 官网|http://fex-team.github.io/fis-site/index.html
 fis|http://fis.baidu.com
 
@@ -626,12 +638,16 @@ fis|http://fis.baidu.com
 
 1. pc图轮
 
+pc图轮  | 地址
+--- | ---  
 单屏轮播sochange|http://www.jsfoot.com/jquery/demo/2011-09-20/192.html
 左右按钮多图切换|http://bxslider.com/examples/carousel-demystified
 fullpage全屏轮播|https://github.com/alvarotrigo/fullPage.js
 
 2. 移动端
 
+移动端  | 地址
+--- | ---  
 无缝切换|http://www.swipejs.com
 滑屏效果|http://www.idangero.us/swiper
 全屏fullpage|https://github.com/peunzhang/fullpage
@@ -658,6 +674,8 @@ JiaThis 分享到微信代码|http://www.jiathis.com/help/html/weixin-share-code
 
 ####13. 文件上传
 
+文件上传  | 地址
+--- | ---  
 百度上传组件|http://fex.baidu.com/webuploader
 上传|https://blueimp.github.io/jQuery-File-Upload
 flash 头像上传|http://www.hdfu.net
@@ -669,6 +687,8 @@ jQuery图片处理|http://www.oschina.net/project/tag/284/jquery-image-tools?lan
 
 ####14. 模拟select
 
+模拟select  | 地址
+--- | ---  
 糖饼 select|http://aui.github.io/popupjs/doc/selectbox.html
 flexselect|https://github.com/rmm5t/jquery-flexselect
 双select|http://loudev.com
@@ -677,6 +697,8 @@ select2|http://select2.github.io
 
 ####15. 取色插件
 
+取色插件  | 地址
+--- | ---  
 类似 Photoshop 的界面取色插件|http://www.jq22.com/plugin/367
 jquery color|https://github.com/jquery/jquery-color
 取色插件集合|http://www.oschina.net/project/tag/287/color-picker
@@ -685,21 +707,29 @@ farbtastic 圆环＋正方形|https://github.com/mattfarina/farbtastic
 
 ####16. 城市联动
 
+城市联动  | 地址
+--- | ---  
 jquery.cityselect.js基于jQuery+JSON的省市或自定义联动效果|http://www.ijquery.cn/?p=360
 |
 
 ####17. 剪贴板
 
+剪贴板  | 地址
+--- | ---  
 剪贴板|https://github.com/zeroclipboard/zeroclipboard
 clipboard 最新的剪切方案|http://zenorocha.github.io/clipboard.js
 不是Flash的剪贴板|https://github.com/zenorocha/clipboard.js
 
 ####18. 简繁转换
 
+简繁转换  | 地址
+--- | ---  
 简繁转换|https://github.com/BYVoid/OpenCC
 
 ####19. 表格 Grid
 
+表格 Grid  | 地址
+--- | ---  
 facebook表格|http://facebook.github.io/fixed-data-table
 类似于Excel编辑表格-handsontable|http://handsontable.com
 bootstrap-table插件|http://bootstrap-table.wenzhixin.net.cn
@@ -707,6 +737,8 @@ datatables|https://www.datatables.net
 
 ####20. 在线演示
 
+在线演示  | 地址
+--- | ---  
 js 在线编辑 - runjs|http://runjs.cn
 js 在线编辑 - jsbin|http://jsbin.com
 js 在线编辑 - codepen|http://codepen.io
@@ -719,14 +751,20 @@ mozilla 在线编辑器|https://thimble.mozilla.org
 
 ####21. 播放器
 
+播放器  | 地址
+--- | ---  
 Html5 VideoPlayer|https://github.com/zmmbreeze/DeadSimpleVideoPlayer
 
 ####22. 粒子动画
 
+粒子动画  | 地址
+--- | ---  
 Proton 烟花|http://a-jie.github.io/Proton/#example
 
 ###九. Nodejs
 
+Nodejs  | 地址
+--- | ---  
 nodejs 篇幅比较巨大|http://liuqing.pw
 Node.js 包教不包会|https://github.com/alsotang/node-lessons
 篇幅比较少|http://www.rainweb.cn/article/category/Nodejs
@@ -751,6 +789,8 @@ NodeJS的代码调试和性能调优|http://www.barretlee.com/blog/2015/10/07/de
 
 1. 常规优化
 
+常规优化|地址
+--- | ---
 Javascript高性能动画与页面渲染|http://www.infoq.com/cn/articles/javascript-high-performance-animation-and-page-rendering
 移动H5前端性能优化指南|http://isux.tencent.com/h5-performance.html
 5173首页前端性能优化实践|http://ued.5173.com/?p=1731
@@ -804,11 +844,15 @@ Need for Speed – How to Improve your Website Performance|https://www.devbridge
 
 2. 优化工具
 
+优化工具|地址
+--- | ---
 JavaScript 性能分析新工具 OneProfile|http://www.html-js.com/article/3083
 JavaScript 堆内存分析新工具 OneHeap|http://www.html-js.com/article/3091
 
 3. 在线工具
 
+在线工具|地址
+--- | ---
 google在线工具|https://developers.google.com/speed/pagespeed/insights
 阿里测|http://www.alibench.com
 阿里-免费测试服务|http://itest.aliyun.com
@@ -818,6 +862,8 @@ js性能测试|http://jsperf.com
     
 ###十一. 前端架构
 
+前端架构|地址
+--- | ---
 技术架构|http://www.zhihu.com/topic/19612641
 前端架构|http://saito.im/note/The-Architecture-of-F2E
 如何成为前端架构师|http://www.zhihu.com/question/24092572
@@ -830,6 +876,8 @@ js性能测试|http://jsperf.com
 
 ####1. 推荐作品
 
+推荐作品|地址
+--- | ---
 winter代码片段需要翻墙|https://gist.github.com/wintercn
 fgm|http://www.fgm.cc/learn
 岑安作品集|https://github.com/hongru/hongru.github.com
@@ -861,6 +909,8 @@ fromone|http://yansm.github.io/fromone/index.html
 
 ####2. 群员作品
 
+群员作品|地址
+--- | ---
 MDialog 合肥-M.J]|http://demo.webjyh.com
 轮播图 上海－冷静]|http://sandbox.runjs.cn/show/do6zlrrk 
 [广州—坚壳]|http://www.replace5.com
@@ -885,10 +935,14 @@ MDialog 合肥-M.J]|http://demo.webjyh.com
 
 ####3. 国外大牛精品
 
+国外大牛精品|地址
+--- | ---
 pazguille|http://pazguille.me
 
 ###十三. 简历模板
 
+简历模板|地址
+--- | ---
 不错的个人简历|http://learnshare.github.io/about/index.html
 简历|http://hcy2367.github.io/resume
 张伦|http://ncuey.sinaapp.com/CrispElite/ 
@@ -903,6 +957,8 @@ Justin Young|http://cv.youngdze.com
 
 ###十四. 面试题
 
+面试题|地址
+--- | ---
 那几个月在找工作（百度，网易游戏）|http://www.nowcoder.com/discuss/3196
 2014最新面试题|http://www.html-js.com/article/1743
 阿里前端面试题|http://www.w3cfuns.com/thread-5598563-2-1.html
@@ -934,6 +990,8 @@ BAT及各大互联网公司2014前端笔试面试题：JavaScript篇|http://blog
 
 ###十五. iconfont
 
+iconfont|地址
+--- | ---
 中文字体|http://www.zhihu.com/question/21253343
 淘宝字库|http://iconfont.cn
 字体|http://mux.alimama.com/fonts
@@ -947,6 +1005,8 @@ icommon|https://icomoon.io/app
 
 1. 前端开发工具
 
+前端开发工具|地址
+--- | ---
 IntelliJ IDEA 简体中文专题教程|https://github.com/judasn/IntelliJ-IDEA-Tutorial
 Webstorm,InterllIdea,Phpstorm|http://t.cn/8kZZ1Uy
 SublimeText|https://github.com/jikeytang/sublime-text
@@ -955,88 +1015,114 @@ visual studio code|https://code.visualstudio.com
 
 2. Chrome, Firebug, Filddle 调试
 
-    1. Fiddler
-    Fiddler调式使用知多少(一深入研究|http://www.cnblogs.com/tugenhua0707/p/4623317.html
-    微信fiddle|http://www.cnblogs.com/strick/p/4570006.html
-    微信fiddle|http://gaoboy.com/article/26.html
-    |
-    
-    2. Chrome
-    Google Chrome 官方|https://developer.chrome.com/devtools
-    Chrome - 基础|http://www.cnblogs.com/constantince/p/4565261.html
-    Chrome - 进阶|http://www.cnblogs.com/constantince/p/4579121.html
-    Chrome - 性能|http://www.cnblogs.com/constantince/p/4585983.html
-    Chrome - 性能进阶|http://www.cnblogs.com/constantince/p/4607497.html
-    Chrome - 移动|http://www.cnblogs.com/constantince/p/4624241.html
-    Chrome - 使用技巧|http://www.cnblogs.com/liyunhua/p/4544738.html
-    Chrome - Console控制台不完全指南|http://www.cnblogs.com/Wayou/p/chrome-console-tips-and-tricks.html
-    Chrome - Workspace使浏览器变成IDE|http://c7sky.com/chrome-devtools-workspace.html
-    network面板|http://www.html-js.com/article/Nothing-blind%202975
-    chrome开发工具快捷键|http://anti-code.com/devtools-cheatsheet
-    chrome调试工具常用功能整理|http://www.html-js.com/article/2327
-    Chrome 开发工具 Workspace 使用|http://www.iinterest.net/2014/05/09/chrome-dev-tool-workspace
-    Chrome神器Vimium快捷键学习记录 |http://www.cppblog.com/deercoder/archive/2011/10/22/158886.html
-    sass调试-w3cplus|http://www.w3cplus.com/sassguide/debug.html
-    如何更专业的使用Chrome开发者工具-w3cplus|http://www.w3cplus.com/tools/how-to-use-chrome-devtools-like-a-pro.html
-    chrome调试canvas|http://sentsin.com/web/253.html
-    chrome profiles1|https://developer.chrome.com/devtools/index
-    chrome profiles2|http://h5dev.uc.cn/article-25-1.html
-    chrome profiles3|http://www.oschina.net/translate/performance-optimisation-with-timeline-profiles
-    chrome移动版调试|https://developer.chrome.com/devtools/docs/mobile-emulation
-    chrome调试|http://ued.taobao.org/blog/2012/06/debug-with-chrome-dev-tool
-    chrome的调试|http://www.cnblogs.com/QLeelulu/archive/2011/08/28/2156402.html
-    chrome console 命令详解|https://developer.chrome.com/devtools/docs/commandline-api
-    查看事件绑定1|http://www.cnblogs.com/leonkao/p/3809655.html
-    查看事件绑定2|http://www.cnblogs.com/xiaoyao2011/p/3447421.html
-    神器——Chrome开发者工具(一|http://segmentfault.com/a/1190000000683599
-    奇趣百科性能优化(Chrome DevTools 中的 Timeline Profils 等工具使用介绍|https://xinranliu.me/2015-05-22-qiqu-performance
-    chrome 开发者工具的 15 个小技巧|http://frontenddev.org/link/15-tips-of-chrome-developer-tools.html
-    Chrome开发者工具不完全指南|http://1ke.co/course/361
-    Chrome 开发者工具使用技巧|http://segmentfault.com/a/1190000003882567
 
-    3. Firebug
-    firebug视频教程|http://www.imooc.com/learn/137
-    firefox 模拟器|https://developer.mozilla.org/zh-CN/docs/Tools/WebIDE
-    console.log 命令详解|http://www.cnblogs.com/ctriphire/p/4116207.html
-    Firebug入门指南|http://www.ruanyifeng.com/blog/2008/06/firebug_tutorial.html
-    Firebug控制台详解|http://www.ruanyifeng.com/blog/2011/03/firebug_console_tutorial.html
-    |
+1. Fiddler
+
+Fiddler|地址
+--- | ---
+Fiddler调式使用知多少(一深入研究|http://www.cnblogs.com/tugenhua0707/p/4623317.html
+微信fiddle|http://www.cnblogs.com/strick/p/4570006.html
+微信fiddle|http://gaoboy.com/article/26.html
+
     
-    4. 移动,微信调试
-    浏览器端调试安卓|https://openstf.github.io
-    移动端前端开发调试|http://yujiangshui.com/multidevice-frontend-debug
-    使用 Chrome 远程调试 Android 设备|https://github.com/yujiangshui/CN-Chrome-DevTools/blob/remote-debugging/md/Use-Tools/remote-debugging.md
-    mac移动端调试|http://plus.uc.cn/document/webapp/doc5.html
-    mac移动端调试|http://www.mihtool.com
-    无线调试攻略|http://thx.github.io/mobile/debugging-in-mobile
-    无线调试攻略|http://yanhaijing.com/mobile/2014/12/17/web-debug-for-mobile
-    屌爆了,完美调试 微信webview(x5|http://www.jianshu.com/p/ccf124f1f74b
-    微信调试的那些事|http://liyaodong.com/2015/07/06/%E5%BE%AE%E4%BF%A1%E8%B0%83%E8%AF%95%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B
-    远程console|http://jsconsole.com
-    微信调试工具|http://blog.qqbrowser.cc
-    各种真机远程调试方法汇总|https://github.com/jieyou/remote_inspect_web_on_real_device
+2. Chrome
+
+Chrome|地址
+--- | ---
+Google Chrome 官方|https://developer.chrome.com/devtools
+Chrome - 基础|http://www.cnblogs.com/constantince/p/4565261.html
+Chrome - 进阶|http://www.cnblogs.com/constantince/p/4579121.html
+Chrome - 性能|http://www.cnblogs.com/constantince/p/4585983.html
+Chrome - 性能进阶|http://www.cnblogs.com/constantince/p/4607497.html
+Chrome - 移动|http://www.cnblogs.com/constantince/p/4624241.html
+Chrome - 使用技巧|http://www.cnblogs.com/liyunhua/p/4544738.html
+Chrome - Console控制台不完全指南|http://www.cnblogs.com/Wayou/p/chrome-console-tips-and-tricks.html
+Chrome - Workspace使浏览器变成IDE|http://c7sky.com/chrome-devtools-workspace.html
+network面板|http://www.html-js.com/article/Nothing-blind%202975
+chrome开发工具快捷键|http://anti-code.com/devtools-cheatsheet
+chrome调试工具常用功能整理|http://www.html-js.com/article/2327
+Chrome 开发工具 Workspace 使用|http://www.iinterest.net/2014/05/09/chrome-dev-tool-workspace
+Chrome神器Vimium快捷键学习记录 |http://www.cppblog.com/deercoder/archive/2011/10/22/158886.html
+sass调试-w3cplus|http://www.w3cplus.com/sassguide/debug.html
+如何更专业的使用Chrome开发者工具-w3cplus|http://www.w3cplus.com/tools/how-to-use-chrome-devtools-like-a-pro.html
+chrome调试canvas|http://sentsin.com/web/253.html
+chrome profiles1|https://developer.chrome.com/devtools/index
+chrome profiles2|http://h5dev.uc.cn/article-25-1.html
+chrome profiles3|http://www.oschina.net/translate/performance-optimisation-with-timeline-profiles
+chrome移动版调试|https://developer.chrome.com/devtools/docs/mobile-emulation
+chrome调试|http://ued.taobao.org/blog/2012/06/debug-with-chrome-dev-tool
+chrome的调试|http://www.cnblogs.com/QLeelulu/archive/2011/08/28/2156402.html
+chrome console 命令详解|https://developer.chrome.com/devtools/docs/commandline-api
+查看事件绑定1|http://www.cnblogs.com/leonkao/p/3809655.html
+查看事件绑定2|http://www.cnblogs.com/xiaoyao2011/p/3447421.html
+神器——Chrome开发者工具(一|http://segmentfault.com/a/1190000000683599
+奇趣百科性能优化(Chrome DevTools 中的 Timeline Profils 等工具使用介绍|https://xinranliu.me/2015-05-22-qiqu-performance
+chrome 开发者工具的 15 个小技巧|http://frontenddev.org/link/15-tips-of-chrome-developer-tools.html
+Chrome开发者工具不完全指南|http://1ke.co/course/361
+Chrome 开发者工具使用技巧|http://segmentfault.com/a/1190000003882567
+
+3. Firebug
+
+Firebug|地址
+--- | ---
+firebug视频教程|http://www.imooc.com/learn/137
+firefox 模拟器|https://developer.mozilla.org/zh-CN/docs/Tools/WebIDE
+console.log 命令详解|http://www.cnblogs.com/ctriphire/p/4116207.html
+Firebug入门指南|http://www.ruanyifeng.com/blog/2008/06/firebug_tutorial.html
+Firebug控制台详解|http://www.ruanyifeng.com/blog/2011/03/firebug_console_tutorial.html
+
     
-    5. iOS Simulator
-    Simulator|https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/iOS_Simulator_Guide/Introduction/Introduction.html
-    Xcode中的iOS模拟器(iOS Simulator的介绍和使用心得|http://www.crifan.com/intro_ios_simulator_in_xcode_and_usage_summary
+4. 移动,微信调试
+
+移动,微信调试|地址
+--- | ---
+浏览器端调试安卓|https://openstf.github.io
+移动端前端开发调试|http://yujiangshui.com/multidevice-frontend-debug
+使用 Chrome 远程调试 Android 设备|https://github.com/yujiangshui/CN-Chrome-DevTools/blob/remote-debugging/md/Use-Tools/remote-debugging.md
+mac移动端调试|http://plus.uc.cn/document/webapp/doc5.html
+mac移动端调试|http://www.mihtool.com
+无线调试攻略|http://thx.github.io/mobile/debugging-in-mobile
+无线调试攻略|http://yanhaijing.com/mobile/2014/12/17/web-debug-for-mobile
+屌爆了,完美调试 微信webview(x5|http://www.jianshu.com/p/ccf124f1f74b
+微信调试的那些事|http://liyaodong.com/2015/07/06/%E5%BE%AE%E4%BF%A1%E8%B0%83%E8%AF%95%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B
+远程console|http://jsconsole.com
+微信调试工具|http://blog.qqbrowser.cc
+各种真机远程调试方法汇总|https://github.com/jieyou/remote_inspect_web_on_real_device
+    
+5. iOS Simulator
+
+iOS Simulator|地址
+--- | ---
+Simulator|https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/iOS_Simulator_Guide/Introduction/Introduction.html
+Xcode中的iOS模拟器(iOS Simulator的介绍和使用心得|http://www.crifan.com/intro_ios_simulator_in_xcode_and_usage_summary
 
 3. img
 
+img|地址
+--- | ---
 loading img|http://preloaders.net/en/circular
 智图-图片优化平台|http://zhitu.isux.us
 在线png优化|https://tinypng.com
 
 4. 生成二维码
 
+生成二维码|地址
+--- | ---
 生成二维码|http://cli.im
     
 5. 浏览器同步
+
+浏览器同步|地址
+--- | ---
 puer|https://github.com/leeluolee/puer
 liveReload|http://livereload.com
 f5|http://getf5.com
 File Watchers|http://geek100.com/2608
 
 6. 在线PPT制作
+
+在线PPT制作|地址
+--- | ---
 nodePPT|http://js8.in/2013/11/16/%E6%8E%A8%E8%8D%90nodeppt%EF%BC%9A%E4%BD%BF%E7%94%A8markdown%E8%AF%AD%E6%B3%95%E6%9D%A5%E5%86%99%E7%BD%91%E9%A1%B5ppt
 PPT|https://github.com/ksky521/nodePPT
 reveal|https://github.com/hakimel/reveal.js
@@ -1044,6 +1130,8 @@ slippy|https://github.com/Seldaek/slippy
 
 ###十七. 前端导航网站
 
+前端导航网站|地址
+--- | ---
 界面清爽的前端导航|http://uxbees.com/index.html
 前端导航|http://whycss.com
 前端网址导航|http://www.daqianduan.com/nav
@@ -1057,6 +1145,8 @@ F2E 前端导航|http://f2e.im/static/pages/nav/index.html
 
 ###十八. 常用CDN
 
+常用CDN|地址
+--- | ---
 新浪CDN|http://lib.sinaapp.com
 百度静态资源公共库|http://cdn.code.baidu.com
 360网站卫士常用前端公共库CDN服务|http://libs.useso.com
@@ -1071,6 +1161,8 @@ Google jQuery CDN|http://www.google-jquery-cdn.com
 
 1. Git
 
+Git|地址
+--- | ---
 git-scm|http://git-scm.com
 廖雪峰-Git教程|http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
 git-for-windows|https://git-for-windows.github.io
