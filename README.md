@@ -352,7 +352,6 @@ ruanyifeng - RegExp对象|http://javascript.ruanyifeng.com/stdlib/regexp.html
 小胡子哥 - 进阶正则表达式|http://div.io/topic/764?page=1
 is.js|https://github.com/Cedriking/is.js/blob/master/is.js
 正则在线测试|http://regexper.com
-|
 
 
 ionic| 地址
@@ -476,19 +475,16 @@ extjs|https://www.sencha.com/products/extjs
 ext4英文api|http://docs.sencha.com/extjs/4.0.7
 ext4中文api|http://extjs-doc-cn.github.io/ext4api
 
-2. EasyUI
 
 EasyUI | 地址
 --- | --- 
 jquery easyui 未压缩源代码|http://jquery-easyui.googlecode.com/svn/trunk/src
 
-3. J-UI
 
 J-UI | 地址
 --- | --- 
 J-UI|http://jui.org
-   
-4. Other
+
 
 Other | 地址
 --- | --- 
