@@ -267,6 +267,8 @@
 - [kitecss](http://hiloki.github.io/kitecss/)
 - [pintuer](http://www.pintuer.com/)
 - [amazeui](http://amazeui.org/)
+
+####18. GITHUB/GIT
 - [worldhello](http://www.worldhello.net/gotgithub/index.html)
 - [linuxtoy](http://igit.linuxtoy.org/contents.html)
 - [gitmagic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
@@ -275,11 +277,11 @@
 - [book](http://git-scm.com/book/zh)
 - [gogojimmy](http://gogojimmy.net/2012/01/17/how-to-use-git-1-git-basic/)
 
-####18. HTTP
+####19. HTTP
 
 - [HTTP API 设计指南](http://segmentfault.com/bookmark/1230000002521721)
 
-####19. 其它API
+####20. 其它API
 
 - [javascript流行库汇总](javascriptoo)
 - [验证api](http://niceue.com/validator/demo/index.php)
@@ -299,7 +301,7 @@
 - [ai-to-svg](http://www.zamzar.com/convert/ai-to-svg/)
 - [localStorage 库](https://github.com/machao/localStorage)
 
-####20. 图表类
+####21. 图表类
 
 - [Highcharts 中文API](http://www.hcharts.cn/api/index.php)
 - [Highcharts 英文API](http://api.highcharts.com/highcharts)
@@ -308,7 +310,7 @@
 - [开源的矢量图脚本框架](http://paperjs.org/)
 - [svg 地图](http://jvectormap.com/)
 
-####21. vue
+####22. vue
 
 - [Vue](http://cn.vuejs.org/)
 - [Vue 论坛](http://forum.vuejs.org/)
@@ -316,7 +318,7 @@
 - [Vue 的一些资源索引](http://segmentfault.com/a/1190000000411057)
 - [awesome-vue](https://github.com/vuejs/awesome-vue)
 
-####21. 正则
+####23. 正则
 
 - [JS正则表达式元字符](http://segmentfault.com/a/1190000002471140)
 - [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
@@ -327,11 +329,11 @@
 - [正则在线测试](http://regexper.com/)
 - []()
 
-####22. ionic
+####24. ionic
 
 - [ionic](https://github.com/ychow/ionic-guide)
 
-####23. 其它
+####25. 其它
 
 - [Mock.js 是一款模拟数据生成器](http://mockjs.com/)
 
