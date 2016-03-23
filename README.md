@@ -3,7 +3,7 @@
 Angular和Webpack种子文件|https://github.com/AngularClass/angular2-webpack-starter
 Fis3面向前端的工程构建系统|https://github.com/fex-team/fis3
 Fis3 DEMO|https://github.com/fex-team/fis3-demo
-前端JQuery系列：入门教程 | 源码剖析 | 框架设计 | 慕课网教程|https://github.com/JsAaron/jQuery
+前端JQuery系列:源码剖析|https://github.com/JsAaron/jQuery
 avalon框架|https://github.com/RubyLouvre/avalon
 Microsoft ChakraCore 微软的Chakra引擎|https://github.com/Microsoft/ChakraCore
 Quintus HTML游戏引擎|https://github.com/cykod/Quintus
