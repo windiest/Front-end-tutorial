@@ -489,23 +489,26 @@ soChange|http://www.bujichong.com/sojs/soChange/index.html
 
 Ext, EasyUI, J-UI 及其它各种UI方案 | 地址
 --- | ---
-
 extjs|https://www.sencha.com/products/extjs
 ext4英文api|http://docs.sencha.com/extjs/4.0.7
 ext4中文api|http://extjs-doc-cn.github.io/ext4api
-    
+
 2. EasyUI
+
 EasyUI | 地址
 --- | --- 
 jquery easyui 未压缩源代码|http://jquery-easyui.googlecode.com/svn/trunk/src
 
 3. J-UI
+
 J-UI | 地址
 --- | --- 
 J-UI|http://jui.org
    
 4. Other
 
+Other | 地址
+--- | --- 
 MUI-最接近原生APP体验的高性能前端框架|http://dcloudio.github.io/mui
 Amaze UI | 中国首个开源 HTML5 跨屏前端框架|http://amazeui.org
 淘宝 HTML5 前端框架|http://m.sui.taobao.org
@@ -517,7 +520,8 @@ Smart UI|http://smartui.chinamzz.com
 雅虎UI - CSS UI|http://developer.yahoo.com/yui/grids
 
 ####7. 页面 社会化 分享功能
-
+页面 社会化 分享功能 | 地址
+--- | --- 
 百度分享|http://share.baidu.com pc端
 JiaThis|http://jiathis.com pc端
 社会化分享组件|http://developer.baidu.com/soc/share 移动端
@@ -525,7 +529,8 @@ ShareSDK 轻松实现社会化功能|http://www.mob.com/#/index 移动端
 友盟分享|http://dev.umeng.com/social/android/quick-integration 移动端
 
 ####8. 富文本编辑器
-
+富文本编辑器 | 地址
+--- | --- 
 功能齐全 tinymce|https://www.tinymce.com
 百度 ueditor|http://ueditor.baidu.com/website
 经典的ckeditor|http://ckeditor.com
@@ -542,6 +547,8 @@ wangEditor|https://github.com/wangfupeng1988/wangEditor
 
 1. PC
 
+PC | 地址
+--- | --- 
 经典my97|http://www.my97.net/dp/demo/index.htm
 强大的独立日期选择器|http://www.cnblogs.com/gbin1/archive/2012/04/16/2452105.html
 fullcalendar|http://fullcalendar.io
@@ -564,6 +571,8 @@ jquery双日历|http://www.daterangepicker.com
 
 2. 移动
 
+移动 | 地址
+--- | --- 
 大气实用jQuery手机移动端日历日期选择插件|http://www.frankdemo.cn/index.php?c=content&a=show&id=115
 jQuery Mobile 移动开发中的日期插件Mobiscroll |https://mobiscroll.com
 
