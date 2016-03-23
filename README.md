@@ -1,27 +1,3 @@
-优秀JavaScript项目 | 地址
---- | --- 
-Angular和Webpack种子文件|https://github.com/AngularClass/angular2-webpack-starter
-Fis3面向前端的工程构建系统|https://github.com/fex-team/fis3
-Fis3 DEMO|https://github.com/fex-team/fis3-demo
-前端JQuery系列:源码剖析|https://github.com/JsAaron/jQuery
-avalon框架|https://github.com/RubyLouvre/avalon
-Microsoft ChakraCore 微软的Chakra引擎|https://github.com/Microsoft/ChakraCore
-Quintus HTML游戏引擎|https://github.com/cykod/Quintus
-一个用node.js搭建的有趣博客|https://github.com/STRML/strml.net
-Web前端助手--FeHelper（Chrome扩展）|https://github.com/zxlie/FeHelper
-百度前端技术学院|https://github.com/baidu-ife/ife
-Cheerio（node.js中的jQuery）|https://github.com/cheeriojs/cheerio
-nodejs的一个聊天软件 类似微信|https://github.com/BryanYang/freechat
-使用html5和node.js构建的网易云音乐|https://github.com/stkevintan/Cube
-babel ES6转换为ES5|https://github.com/babel/babel
-一个JS富文本编辑器|https://github.com/fex-team/ueditor
-一个JS脑图可视化工具|https://github.com/fex-team/kityminder-core
-一个JS写的Flappy Bird Game|https://github.com/ellisonleao/clumsy-bird
-一个JS写的GBA模拟器|https://github.com/taisel/IodineGBA
-SegmentFault写的Markdown解析器|https://github.com/SegmentFault/HyperDown.js
-基于node.js的Ghost博客|https://github.com/TryGhost/Ghost
-学习react的demos|https://github.com/ruanyf/react-demos
-
 综合类 | 地址
 --- | --- 
 前端知识体系|http://www.cnblogs.com/sb19871023/p/3894452.html
@@ -1081,3 +1057,27 @@ GitHub 漫游指南|https://github.com/phodal/github-roam
 GitHub秘籍|https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md
 使用git和github进行协同开发流程|http://livoras.com/post/28
 动画方式练习git|http://onlywei.github.io/explain-git-with-d3
+
+优秀JavaScript项目 | 地址
+--- | --- 
+Angular和Webpack种子文件|https://github.com/AngularClass/angular2-webpack-starter
+Fis3面向前端的工程构建系统|https://github.com/fex-team/fis3
+Fis3 DEMO|https://github.com/fex-team/fis3-demo
+前端JQuery系列:源码剖析|https://github.com/JsAaron/jQuery
+avalon框架|https://github.com/RubyLouvre/avalon
+Microsoft ChakraCore 微软的Chakra引擎|https://github.com/Microsoft/ChakraCore
+Quintus HTML游戏引擎|https://github.com/cykod/Quintus
+一个用node.js搭建的有趣博客|https://github.com/STRML/strml.net
+Web前端助手--FeHelper（Chrome扩展）|https://github.com/zxlie/FeHelper
+百度前端技术学院|https://github.com/baidu-ife/ife
+Cheerio（node.js中的jQuery）|https://github.com/cheeriojs/cheerio
+nodejs的一个聊天软件 类似微信|https://github.com/BryanYang/freechat
+使用html5和node.js构建的网易云音乐|https://github.com/stkevintan/Cube
+babel ES6转换为ES5|https://github.com/babel/babel
+一个JS富文本编辑器|https://github.com/fex-team/ueditor
+一个JS脑图可视化工具|https://github.com/fex-team/kityminder-core
+一个JS写的Flappy Bird Game|https://github.com/ellisonleao/clumsy-bird
+一个JS写的GBA模拟器|https://github.com/taisel/IodineGBA
+SegmentFault写的Markdown解析器|https://github.com/SegmentFault/HyperDown.js
+基于node.js的Ghost博客|https://github.com/TryGhost/Ghost
+学习react的demos|https://github.com/ruanyf/react-demos
