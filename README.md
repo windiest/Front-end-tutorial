@@ -314,7 +314,7 @@
 - [Vue 论坛](http://forum.vuejs.org/)
 - [Vue 入门指南](http://www.cnblogs.com/aaronjs/p/3660102.html)
 - [Vue 的一些资源索引](http://segmentfault.com/a/1190000000411057)
-- []()
+- [awesome-vue](https://github.com/vuejs/awesome-vue)
 
 ####21. 正则
 
@@ -389,6 +389,7 @@
 - [腾讯html5](http://cube.qq.com/)
 - [奇舞团开源项目](http://75team.github.io/)
 - [Qunar UED](http://ued.qunar.com/)
+- [Scrat](http://scrat.io)
 
 ####2. Javascript
 
@@ -474,6 +475,7 @@
 
 ####8. 富文本编辑器
 
+- [功能齐全 tinymce](https://www.tinymce.com/)
 - [百度 ueditor](http://ueditor.baidu.com/website/)
 - [经典的ckeditor](http://ckeditor.com/)
 - [经典的kindeditor](http://kindeditor.net/)
