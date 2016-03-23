@@ -204,7 +204,8 @@ jqmobile 手册|http://app-framework-software.intel.com/api.php
 移动浏览器开发集合|https://github.com/maxzhang/maxzhang.github.com/issues
 移动开发大杂烩|https://github.com/hoosin/mobile-web-favorites
 微信webview中的一些问题|http://lin-chao.github.io/2014/11/14/%E5%BE%AE%E4%BF%A1webview%E4%B8%AD%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98
-2. 框架
+
+
 框架| 地址
 --- | --- 
 特色的HTML框架可以创建精美的iOS应用|http://framework7.taobao.org
@@ -1060,4 +1061,3 @@ GitHub 漫游指南|https://github.com/phodal/github-roam
 GitHub秘籍|https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md
 使用git和github进行协同开发流程|http://livoras.com/post/28
 动画方式练习git|http://onlywei.github.io/explain-git-with-d3
-
