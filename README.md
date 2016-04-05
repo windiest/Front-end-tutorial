@@ -916,7 +916,7 @@ visual studio code|https://code.visualstudio.com
 
 Fiddler|地址
 --- | ---
-Fiddler调式使用知多少(一深入研究|http://www.cnblogs.com/tugenhua0707/p/4623317.html
+Fiddler调试使用知多少(一)深入研究|http://www.cnblogs.com/tugenhua0707/p/4623317.html
 微信fiddle|http://www.cnblogs.com/strick/p/4570006.html
 微信fiddle|http://gaoboy.com/article/26.html
 
