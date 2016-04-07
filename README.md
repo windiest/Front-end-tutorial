@@ -26,7 +26,7 @@ Front-End-Develop-Guide 前端开发指南|https://github.com/Front-End-Develope
 入门类 | 地址
 --- | --- 
 前端入门教程|http://www.cnblogs.com/jikey/p/3613082.html
-瘳雪峰的Javascript教程|http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000
+廖雪峰的Javascript教程|http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000
 jQuery基础教程|http://www.imooc.com/view/11
 前端工程师必备的PS技能——切图篇|http://www.imooc.com/view/506
 结合个人经历总结的前端入门方法|https://github.com/qiu-deqing/FE-learning
