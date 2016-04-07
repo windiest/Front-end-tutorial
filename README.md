@@ -21,6 +21,7 @@ Front-End-Develop-Guide 前端开发指南|https://github.com/Front-End-Develope
 前端开发笔记本|https://li-xinyang.gitbooks.io/frontend-notebook/content
 大前端工具集 - 聂微东|https://github.com/nieweidong/fetool
 前端开发者手册|https://dwqs.gitbooks.io/frontenddevhandbook/content
+易迅网前端博客|https://github.com/YIXUNFE/blog
 
 
 入门类 | 地址
@@ -439,12 +440,6 @@ JavaScript 算法与数据结构 精华集|https://github.com/lightningtgc/JavaS
 面试常考算法题精讲|http://www.nowcoder.com/live/courses
 
 
-移动端 | 地址
---- | --- 
-fastclick|https://github.com/ftlabs/fastclick
-no-click-delay|https://github.com/mmastrac/jquery-noclickdelay
-
-
 JSON | 地址
 --- | --- 
 模拟生成JSON数据|http://beta.json-generator.com
@@ -546,11 +541,6 @@ Datepair.js|http://jonthornton.github.io/Datepair.js
 jquery双日历|http://www.daterangepicker.com
 
 
-移动 | 地址
---- | --- 
-大气实用jQuery手机移动端日历日期选择插件|http://www.frankdemo.cn/index.php?c=content&a=show&id=115
-jQuery Mobile 移动开发中的日期插件Mobiscroll |https://mobiscroll.com
-
 
 Date library | 地址
 --- | --- 
@@ -632,8 +622,12 @@ JiaThis 分享到微信代码|http://www.jiathis.com/help/html/weixin-share-code
 聊聊移动端跨平台开发的各种技术|http://fex.baidu.com/blog/2015/05/cross-mobile
 前端自动化测试|http://www.zhihu.com/question/29922082
 多种轮换图片|http://ajccom.github.io/niceslider
+滚动条组件|http://ajccom.github.io/nicescroller
 滑动侧边栏|https://mango.github.io/slideout
-
+大气实用jQuery手机移动端日历日期选择插件|http://www.frankdemo.cn/index.php?c=content&a=show&id=115
+jQuery Mobile 移动开发中的日期插件Mobiscroll |https://mobiscroll.com
+fastclick|https://github.com/ftlabs/fastclick
+no-click-delay|https://github.com/mmastrac/jquery-noclickdelay
 
 文件上传  | 地址
 --- | ---  
