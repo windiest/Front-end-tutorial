@@ -22,6 +22,7 @@ Front-End-Develop-Guide 前端开发指南|https://github.com/Front-End-Develope
 大前端工具集 - 聂微东|https://github.com/nieweidong/fetool
 前端开发者手册|https://dwqs.gitbooks.io/frontenddevhandbook/content
 易迅网前端博客|https://github.com/YIXUNFE/blog
+重新介绍 JavaScript（JS 教程）|https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 
 
 入门类 | 地址
