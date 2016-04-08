@@ -338,6 +338,7 @@
 ####22. ionic
 
 - [ionic](https://github.com/ychow/ionic-guide)
+- [ionic2.0中文文档整理](https://github.com/Raineye/ionic2)
 
 ####23. 其它
 
