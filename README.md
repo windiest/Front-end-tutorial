@@ -295,7 +295,15 @@
 |[百度FEX](http://fex.baidu.com/)|[阿里UED](http://www.aliued.com/)|
 |[QDFuns](http://www.qdfuns.com/portal.php)|[幕课网](http://www.imooc.com/)|
 |[Codepen](http://codepen.io/)|[Sentsin](http://sentsin.com/daohang/)|
-|[菜鸟教程](http://www.runoob.com/)|
+|[菜鸟教程](http://www.runoob.com/)||
+
+## JS练习
+| Reference | Reference |
+| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+|[Codewars](https://www.codewars.com/)|[Javascript-puzzlers](http://javascript-puzzlers.herokuapp.com/)|
+|[Freecodecamp中文版)(https://freecodecamp.cn/)|[ES6katas](http://es6katas.org/)|
+|[Now Coder牛客网](https://www.nowcoder.com/ta/js-assessment)|[Leetcode](https://leetcode.com/)|
+|[Nodeschool](https://nodeschool.io/)|[Hackerrank](https://www.hackerrank.com/)|
 
 ## 算法
 | Reference | Reference |
