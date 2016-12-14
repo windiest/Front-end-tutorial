@@ -1,4 +1,4 @@
-:smiley_cat:_These share data are from my usual work and learning，hoping to help you，If you like you can star, thanks_
+:smiley_cat:_These share data are from my usual work and learning，hoping to help you，If you like you can star_
 
 ## Javascript
 | Article | Article |
