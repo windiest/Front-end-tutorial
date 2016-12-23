@@ -13,7 +13,7 @@
 |[Javascript的createElement](https://wscats.github.io/angular-demo/createElement.html)|[Javascript的createDocumentFragment](https://wscats.github.io/angular-demo/createDocumentFragment.html)|
 |[sessionStorage和localStorage](https://wscats.github.io/angular-demo/sessionStoragelocalStorage.html)|[像素帧动画](https://wscats.github.io/angular-demo/像素动画.html)|
 | **Reference** | **Reference** |
-[[收集最全前端教资料](https://github.com/windiest/Front-end-tutorial)]|[最全前端教程-猫的回忆录](https://github.com/Wscats/Good-text-Share)]|
+[收集最全前端教资料](https://github.com/windiest/Front-end-tutorial)]|[最全前端教程-猫的回忆录](https://github.com/Wscats/Good-text-Share)|
 |[JavaScript中的this陷阱的最全收集--没有之一](https://segmentfault.com/a/1190000002640298)|[JS函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html)|
 |[JavaScript Promise迷你书（中文版）](http://liubin.github.io/promises-book)|[阮一峰 Javascript](http://javascript.ruanyifeng.com)|
 |[前端 TOP 100](https://www.awesomes.cn/rank)|[小白的零基础JavaScript全栈教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)|
