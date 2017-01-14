@@ -296,6 +296,7 @@
 |[阿里UED](http://www.aliued.com/)|[菜鸟教程](http://www.runoob.com/)|
 |[QDFuns](http://www.qdfuns.com/portal.php)|[幕课网](http://www.imooc.com/)|
 |[Codepen](http://codepen.io/)|[Sentsin](http://sentsin.com/daohang/)|
+|[segmentfault](https://segmentfault.com/)|[前端网](http://www.qdfuns.com/)
 
 ## JS练习
 | Reference | Reference |
