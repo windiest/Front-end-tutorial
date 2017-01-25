@@ -1,6 +1,6 @@
 :smiley_cat:_These share data are from my usual work and learning，hoping to help you，If you like you can star_
 
-过往资料可翻看commit或参考下文：
+如需参考过往资料可翻看commit或查看下文：
 
 [如何评价 GitHub 中国区粉丝数前 100 名的用户？](https://www.zhihu.com/question/42256682)
 
