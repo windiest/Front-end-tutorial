@@ -1,5 +1,9 @@
 :smiley_cat:_These share data are from my usual work and learning，hoping to help you，If you like you can star_
 
+过往资料可翻看commit或参考下文：
+[如何评价 GitHub 中国区粉丝数前 100 名的用户？](https://www.zhihu.com/question/42256682）
+[为什么有人GitHub排行很低，不仅不向排行高的学习，反而去黑排行高的？](https://www.zhihu.com/question/42689999)
+
 ## Javascript
 | Article | Article |
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|
