@@ -1,11 +1,5 @@
 :smiley_cat:_These share data are from my usual work and learning，hoping to help you，If you like you can star_
 
-如需参考过往资料可翻看commit或查看下文：
-
-[如何评价 GitHub 中国区粉丝数前 100 名的用户？](https://www.zhihu.com/question/42256682)
-
-[为什么有人GitHub排行很低，不仅不向排行高的学习，反而去黑排行高的？](https://www.zhihu.com/question/42689999)
-
 ## Javascript
 | Article | Article |
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|
@@ -323,3 +317,10 @@
 | ------------- |:-------------:| :-------------:| :-------------:| -----:|
 |[Exploring-ES6翻译](http://es6-org.github.io/exploring-es6/)|[阮一峰 ES6](http://es6.ruanyifeng.com)|
 |[ECMA-262，第 5 版](http://yanhaijing.com/es5)|[ES5](http://es5.github.io)|
+
+
+如需参考过往资料可翻看commit或查看下文：
+
+[如何评价 GitHub 中国区粉丝数前 100 名的用户？](https://www.zhihu.com/question/42256682)
+
+[为什么有人GitHub排行很低，不仅不向排行高的学习，反而去黑排行高的？](https://www.zhihu.com/question/42689999)
