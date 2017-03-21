@@ -1,8 +1,10 @@
 :smiley_cat:_These share data are from my usual work and learning，hoping to help you，If you like you can star_
 
+更多详情可关注作者:小猫[wscat](https://github.com/Wscats)和猫主人[windiest](https://github.com/windiest),谢谢~
+
 ## Javascript
 | Article | Article |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| --------- | --------- |
 |[Javascript深浅拷贝](https://github.com/Wscats/Good-text-Share/issues/57)|[Javascript中的apply和call继承](https://github.com/Wscats/Good-text-Share/issues/56)|
 |[Javascript的jsonp原理](https://github.com/Wscats/Good-text-Share/issues/55)|[Javascript监听触摸事件](https://github.com/Wscats/Good-text-Share/issues/49)|
 |[Javascript中的var self = this](https://github.com/Wscats/Good-text-Share/issues/52)|[Javascript面向对象编程](https://github.com/Wscats/Good-text-Share/issues/32)|
@@ -20,7 +22,7 @@
 
 ## UI
 | Reference | Reference |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| --------- | --------- |
 |[WeUI](https://github.com/weui/weui)|[Bootstrap](http://www.bootcss.com)|
 |[MUI-最接近原生APP体验的高性能前端框架](http://dev.dcloud.net.cn/mui/)|[Amaze UI中国首个开源HTML5跨屏前端框架](http://amazeui.org)|
 |[Frozen UI](http://frozenui.github.io/)|[Foundation](http://foundation.zurb.com/)|
@@ -31,7 +33,7 @@
 
 ## CSS
 | Article | Article |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| --------- | --------- |
 |[CSS Flex布局](https://github.com/Wscats/Good-text-Share/issues/41)|[移动前端开发CSS3](https://github.com/Wscats/Good-text-Share/issues/38)|
 |[响应式布局 媒体查询](https://github.com/Wscats/Good-text-Share/issues/43)|[CSS图片响应式布局](https://github.com/Wscats/Good-text-Share/issues/34)|
 |[lessDemo的less文件](https://wscats.github.io/angular-demo/stylesheets/styles.less)||
@@ -42,12 +44,12 @@
 
 ## HTML
 | Article | Article |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| --------- | --------- |
 [HTML5有哪些让你惊艳的demo](http://www.zhihu.com/question/24398907)|[Wallpaperbetter](http://www.wallpaperbetter.com/)|
 
 ## Angular
 | Article | Angular文档 |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| --------- | --------- |
 |[Angular源码解读publishExternalAPI函数](https://github.com/Wscats/Good-text-Share/issues/26)|[Angular源码解读setupModuleLoader函数](https://github.com/Wscats/Good-text-Share/issues/25)|
 |[Angular的ng-style用法](https://github.com/Wscats/Good-text-Share/issues/35)|[Angular判断在那个浏览器下打开的服务](https://github.com/Wscats/Good-text-Share/issues/29)|
 |[Angular文字折叠展开组件的原理分析](https://github.com/Wscats/Good-text-Share/issues/28)|[Angular服务Request异步请求的详细分析](https://github.com/Wscats/Good-text-Share/issues/21)|
@@ -102,7 +104,7 @@
 
 ## React
 | React | Reference |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| --------- | --------- |
 |[React教程 菜鸟教程](http://www.runoob.com/react/react-tutorial.html)|[React Router 使用教程](http://www.ruanyifeng.com/blog/2016/05/react_router.html?utm_source=tool.lu)|
 |[React开发中文手册-极客学院](http://wiki.jikexueyuan.com/project/react/)|[React教程-汇智网](http://www.hubwiz.com/course/552762019964049d1872fc88/)|
 |[React.js快速开始](http://www.phperz.com/article/15/0712/140537.html#)|[Reactjs 2016最佳实践](http://www.alloyteam.com/2016/01/reactjs-best-practices-for-2016/)|
@@ -117,7 +119,7 @@
 
 ## Vue
 | Vue |AppDemo|Demo|
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| --------- | --------- | --------- |
 |[NewsDemo](https://wscats.github.io/vue-demo/news/index.html)|[vue计算属性](https://wscats.github.io/vue-demo/vue计算属性.html)|[vue生命周期](https://wscats.github.io/vue-demo/vue生命周期.html)|
 | **Article** |**Vue文档**||
 |[Vue-cli脚手架](https://github.com/Wscats/vue-demo/issues/2)|[Vue组件](https://github.com/Wscats/vue-demo/issues/3)|[vue自定义指令](https://github.com/Wscats/vue-demo/issues/8)|
@@ -143,7 +145,7 @@
 
 ## Node
 | Node | Article |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| --------- | --------- |
 |[node技巧](https://github.com/Wscats/Good-text-Share/issues/44)|[NodeJs静态服务器](https://github.com/Wscats/angular-demo/tree/gh-pages/diyNodeServer)|
 | **Reference** | **Reference** |
 |[Node.js 包教不包会](https://github.com/alsotang/node-lessons)|[七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)|
@@ -152,7 +154,7 @@
 
 ## Gulp 
 | Gulp | Article |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| --------- | --------- |
 |[Gulp Demo](https://github.com/Wscats/glup)||
 | **Gulp** | **Reference** |
 |[Gulp官网](http://gulpjs.com)|[Gulp中文网](http://www.gulpjs.com.cn)|
@@ -162,7 +164,7 @@
 
 ## 其他
 | Other | Article |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| --------- | --------- |
 |[关于Pornographic website的一些前端分析](https://github.com/Wscats/node-demo/issues/4)|[微信公众号开发](https://github.com/Wscats/Good-text-Share/issues/50)|
 |[Atom技巧总结](https://github.com/Wscats/Good-text-Share/issues/30)|[Mac小技巧](https://github.com/Wscats/Good-text-Share/issues/46)|
 |[CSDN页面内JS跳转脚本](https://github.com/Wscats/Good-text-Share/issues/9)|[CSDN博客隐藏配置](https://github.com/Wscats/Good-text-Share/issues/8)|
@@ -172,14 +174,14 @@
 
 ## 分享功能
 | Share | Reference |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| --------- | --------- |
 |[百度分享(PC)](http://share.baidu.com)|[JiaThis(PC)](http://jiathis.com)|
 |[社会化分享组件(Mobile)](http://developer.baidu.com/soc/share)|[ShareSDK轻松实现社会化功能(Mobile)](http://www.mob.com)|
 |[友盟分享(Mobile)](http://dev.umeng.com/social/android/quick-integration)||
 
 ## 在线演示
 | Reference | Reference |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| --------- | --------- |
 |[js 在线编辑 - runjs](http://runjs.cn)|[js 在线编辑 - jsbin](http://jsbin.com)|
 |[js 在线编辑 - codepen](http://codepen.io)|[js 在线编辑 - jsfiddle](http://jsfiddle.net)|
 |[java 在线编辑 - runjs](http://ideone.com)|[js 在线编辑 - hcharts](http://code.hcharts.cn)|
@@ -188,7 +190,7 @@
 
 ## 富文本编辑器
 | Reference | Reference |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| --------- | --------- |
 |[百度ueditor](http://ueditor.baidu.com/website)|[ckeditor](http://ckeditor.com)|
 |[tinymce](https://www.tinymce.com)|[kindeditor](http://kindeditor.net)|
 |[wysiwyg](http://www.bootcss.com/p/bootstrap-wysiwyg)|[BachEditor](http://integ.github.io/BachEditor)|
@@ -197,7 +199,7 @@
 
 ## Chrome
 | Reference | Reference |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| --------- | --------- |
 |[Chrome - 基础](http://www.cnblogs.com/constantince/p/4565261.html)|[Chrome - 进阶](http://www.cnblogs.com/constantince/p/4579121.html)|
 |[Chrome - 性能](http://www.cnblogs.com/constantince/p/4585983.html)|[Chrome - 性能进阶](http://www.cnblogs.com/constantince/p/4607497.html)|
 |[Chrome - 移动](http://www.cnblogs.com/constantince/p/4624241.html)|[Chrome - 使用技巧](http://www.cnblogs.com/liyunhua/p/4544738.html)|
@@ -210,7 +212,7 @@
 
 ## 性能优化
 | Reference | Reference |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| --------- | --------- |
 |[Javascript高性能动画与页面渲染](http://www.infoq.com/cn/articles/javascript-high-performance-animation-and-page-rendering)|[移动H5前端性能优化指南](http://isux.tencent.com/h5-performance.html)|
 |[给网页设计师和前端开发者看的前端性能优化](http://www.uisdc.com/front-end-performance-for-web-designers-and-front-end-developers)|[张鑫旭——前端性能](http://www.zhangxinxu.com/wordpress/tag/%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD/)|
 |[web前端性能优化进阶路](http://www.aliued.cn/2013/01/20/web%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E8%BF%9B%E9%98%B6%E8%B7%AF.html)|[Hey——前端性能](http://www.feelcss.com/tag/%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD)|
@@ -223,7 +225,7 @@
 
 ## CDN
 | Reference | Reference |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| --------- | --------- |
 |[Jquery&Bootstrap中文网开源项目免费 CDN 服务](http://www.bootcdn.cn/jquery)|[Bootstrap中文网开源项目免费 CDN 服务](http://www.bootcdn.cn)|
 |[新浪CDN](http://lib.sinaapp.com)|[百度静态资源公共库](http://cdn.code.baidu.com)|
 |[开放静态文件 CDN - 七牛](http://staticfile.org)|[CDN加速 - jq22](http://www.jq22.com/cdn)|
@@ -232,7 +234,7 @@
 
 ## Git
 | Article | Article |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| --------- | --------- |
 |[Git操作](https://github.com/Wscats/Good-text-Share/issues/20)|[Git CSDN Blog](http://blog.csdn.net/qq_27080247/article/details/49942991)|
 | **Reference** | **Reference** |
 |[Git-scm](http://git-scm.com)|[Git-for-windows](https://git-for-windows.github.io)|
@@ -243,7 +245,7 @@
 
 ## Sass&Less
 | Article | Article |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| --------- | --------- |
 |[Less教程](https://github.com/Wscats/less-demo/issues/1)||
 | **Reference** | **Reference** |
 |[Sass](http://www.w3cplus.com/sassguide)|[Sass中文文档](http://sass.bootcss.com)|
@@ -251,7 +253,7 @@
 
 ## Markdown
 | Reference | Reference |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| --------- | --------- |
 |[Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown)|[Markdown入门参考](https://github.com/LearnShare/Learning-Markdown/blob/master/README.md)|
 |[Mdeditor(一款国内的在线markdown编辑器)](https://www.zybuluo.com/mdeditor)|[Stackedit(国外的在线markdown编辑器，功能强大，同步云盘)](https://stackedit.io)|
 |[Mditor一款轻量级的markdown编辑器](http://bh-lay.github.io/mditor)|[lepture-editor](https://github.com/lepture/editor)|
@@ -259,7 +261,7 @@
 
 ## 前端文档
 | Reference | Reference |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| --------- | --------- |
 |[前端知识结构](https://github.com/JacksonTian/fks)|[Web前端开发大系概览](https://github.com/unruledboy/WebFrontEndStack)|
 |[免费的编程中文书籍索](https://github.com/justjavac/free-programming-books-zh_CN)|[前端书籍](https://github.com/dypsilon/frontend-dev-bookmarks)|
 |[前端免费书籍大全](https://github.com/vhf/free-programming-books)|[重新介绍JavaScript（JS教程）](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)|
@@ -270,7 +272,7 @@
 
 ## 前端规范
 | Reference | Reference |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| --------- | --------- |
 |[通过分析github代码库总结出来的工程师代码书写习惯](http://alloyteam.github.io/CodeGuide/)|[HTML&CSS编码规范 by @mdo](http://codeguide.bootcss.com)|
 |[前端编码规范之js - by yuwenhui](http://yuwenhui.github.io)|[前端编码规范之js - by 李靖](http://www.cnblogs.com/hustskyking/p/javascript-spec.html)|
 |[Airbnb JavaScript 编码规范（简体中文版）](https://github.com/yuche/javascript#table-of-contents)|[AMD与CMD规范的区别](http://www.zhihu.com/question/20351507)|
@@ -281,7 +283,7 @@
 
 ## 前端面试
 | Reference | Reference |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| --------- | --------- |
 |[2016校招内推 -- 阿里巴巴前端 -- 四面面试经历](http://www.cnblogs.com/imwtr/p/4685546.html)|[那几个月在找工作（百度，网易游戏，华为）](https://www.nowcoder.com/discuss/3196)|
 |[前端开发面试题](https://segmentfault.com/a/1190000000465431)|[Front-end-Interview-questions](https://github.com/hawx1993/Front-end-Interview-questions)|
 |[5个经典的前端面试问题](http://ourjs.com/detail/5%E4%B8%AA%E7%BB%8F%E5%85%B8%E7%9A%84%E5%89%8D%E7%AB%AF%E)|[Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese)|
@@ -291,16 +293,16 @@
 
 ## 前端网站
 | Reference | Reference |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| --------- | --------- |
 |[掘金](https://gold.xitu.io/)|[百度FEX](http://fex.baidu.com/)|
 |[阿里UED](http://www.aliued.com/)|[菜鸟教程](http://www.runoob.com/)|
 |[QDFuns](http://www.qdfuns.com/portal.php)|[幕课网](http://www.imooc.com/)|
 |[Codepen](http://codepen.io/)|[Sentsin](http://sentsin.com/daohang/)|
-|[segmentfault](https://segmentfault.com/)|[前端网](http://www.qdfuns.com/)
+|[CTOLib](http://www.ctolib.com/javascript/)|[CTOLib/Node](http://www.ctolib.com/nodejs/)|
 
 ## JS练习
 | Reference | Reference |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| --------- | --------- |
 |[Codewars](https://www.codewars.com/)|[Javascript-puzzlers](http://javascript-puzzlers.herokuapp.com/)|
 |[Freecodecamp中文版](https://freecodecamp.cn/)|[ES6katas](http://es6katas.org/)|
 |[Now Coder牛客网](https://www.nowcoder.com/ta/js-assessment)|[Leetcode](https://leetcode.com/)|
@@ -308,15 +310,16 @@
 
 ## 算法
 | Reference | Reference |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| --------- | --------- |
 |[数据结构与算法 JavaScript 描述. 章节练习](https://github.com/Ralph-Wang/algorithm.in.js)|[常见排序算法（JS版）](https://github.com/twobin/twobinSort)|
 |[经典排序](https://github.com/luofei2011/jsAgm/blob/master/js/sort.js)|[常见排序算法-js版本](https://github.com/hechangmin/jssort)|
 
 ## ES
 | Reference | Reference |
-| ------------- |:-------------:| :-------------:| :-------------:| -----:|
+| --------- | --------- |
 |[Exploring-ES6翻译](http://es6-org.github.io/exploring-es6/)|[阮一峰 ES6](http://es6.ruanyifeng.com)|
 |[ECMA-262，第 5 版](http://yanhaijing.com/es5)|[ES5](http://es5.github.io)|
+
 
 
 如需参考过往资料可翻看commit或查看下文：
